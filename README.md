@@ -4,5 +4,5 @@
 - I’m looking to collaborate on companies with whom I could share my passions!
 - 📫 How to reach me: <br>
 -----> email:    d.pacek1@gmail.com <br>
------> LinkedIn: https://www.linkedin.com/in/daniel-pacek/
+-----> LinkedIn: https://www.linkedin.com/in/daniel-pacek/ <br>
 -----> https://danielpacek.herokuapp.com/
