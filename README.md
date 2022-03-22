@@ -1,6 +1,6 @@
 - Hi, I’m @fortyfortyy
 - I’m interested in Python, Django, JS, React and many more :]
-- I’m currently learning Python, Django, JS, CSS, HTML, GIT (I recomend to you to check my progress!
+- I’m currently learning algorithms and data structure in Python and how to design systems. 
 - I’m looking to collaborate on companies with whom I could share my passions!
 - 📫 How to reach me: <br>
 -----> Email:    d.pacek1@gmail.com <br>
