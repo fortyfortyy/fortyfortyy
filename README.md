@@ -1,5 +1,5 @@
 - Hi, I’m @fortyfortyy
-- I’m interested in Python, Django, JS, React and many more :]
+- I’m interested in Python, Django, JS, React and algorithms.
 - I’m currently learning algorithms and data structure in Python and how to design systems. 
 - I’m looking to collaborate on companies with whom I could share my passions!
 - 📫 How to reach me: <br>
