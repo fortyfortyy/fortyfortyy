@@ -1,7 +1,6 @@
 - Hi, I’m @fortyfortyy
-- I’m interested in Python, Django, TypeScript, React.
-- I have 6 months of commercial experience as a Full Stack Developer.
-- I’m looking to collaborate on companies with whom I could share my passions, energy and motivation to work! :)
+- I’m interested in writing backend solutions.
+- I have 9 months of commercial experience as a Software Engineer.
 - 📫 How to reach me: <br>
 --> Website:  https://danielpacek.up.railway.app <br>
 --> Email:    d.pacek1@gmail.com <br>
