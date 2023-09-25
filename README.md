@@ -1,6 +1,6 @@
 - Hi, I’m @fortyfortyy
 - I’m interested in writing backend solutions.
-- I have 9 months of commercial experience as a Software Engineer.
+- I have 11 months of commercial experience as a Software Engineer.
 - 📫 How to reach me: <br>
 --> Website:  https://danielpacek.up.railway.app <br>
 --> Email:    d.pacek1@gmail.com <br>
